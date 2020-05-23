@@ -1,0 +1,22 @@
+{
+  "name": "mailman",
+  "version": "1.0.0",
+  "description": "A mailer to send multiple emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavsharma2106/mailman.git"
+  },
+  "author": "Madhav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavsharma2106/mailman/issues"
+  },
+  "homepage": "https://github.com/madhavsharma2106/mailman#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.1.1"
+  }
+}
